@@ -1,0 +1,5 @@
+{
+  "name": "Teca MCQ - AI Tutor",
+  "description": "An intelligent multiple-choice question generator and tutor powered by Gemini. Experience an adaptive learning journey with real-time feedback and gamified UI.",
+  "requestFramePermissions": []
+}
